@@ -1,4 +1,4 @@
-#' parse_rayyan
+#' wikitaxR
 #' @description A function to scrape taxonomic classification information from Wikipedia from a vector of highest/finest taxonomic classifications available (e.g. genus names)
 #' @details Very beta version - uploaded mainly for a friend. Will improve upon if get time
 #' @author Matt Lloyd Jones
@@ -7,7 +7,7 @@
 #' @return
 #' @export
 
-wikitaxaR<-function(highestassignment){
+wikitaxR<-function(highestassignment){
 
 # MULTIPLE SEARCHES EXAMPLE ------------------------------------------------------------
   
